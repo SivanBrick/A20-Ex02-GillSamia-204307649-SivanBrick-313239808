@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Ex01
+namespace Ex02
 {
     public class ZodiacSignManager
     {

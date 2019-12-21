@@ -1,6 +1,6 @@
-﻿namespace Ex01
+﻿namespace Ex02
 {
-    public partial class LoginForm 
+    public partial class LoginForm
     {
         /// <summary>
         /// Required designer variable.
@@ -53,7 +53,7 @@
             this.loginButton.BackColor = System.Drawing.SystemColors.HotTrack;
             this.loginButton.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.loginButton.Location = new System.Drawing.Point(281, 149);
-            this.loginButton.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.loginButton.Margin = new System.Windows.Forms.Padding(5);
             this.loginButton.Name = "loginButton";
             this.loginButton.Size = new System.Drawing.Size(407, 70);
             this.loginButton.TabIndex = 1;
@@ -71,11 +71,12 @@
             this.Controls.Add(this.welcomeText);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "LoginForm";
             this.Text = "FaceBook Login";
+            this.Load += new System.EventHandler(this.LoginForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

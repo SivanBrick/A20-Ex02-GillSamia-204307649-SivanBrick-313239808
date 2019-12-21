@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using FacebookWrapper;
 using FacebookWrapper.ObjectModel;
 
-namespace Ex01
+namespace Ex02
 {
     public partial class LoginForm : Form
     {
@@ -99,6 +99,11 @@ namespace Ex01
         {
             this.loginAndInit();
             this.Hide();
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
