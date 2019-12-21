@@ -2,7 +2,7 @@ using System;
 using System.Windows.Forms;
 using FacebookWrapper;
 
-namespace Ex01
+namespace Ex02
 {
     public class Program
     {

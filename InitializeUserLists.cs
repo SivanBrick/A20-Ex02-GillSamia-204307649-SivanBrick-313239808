@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using FacebookWrapper.ObjectModel;
 
-namespace Ex01
+namespace Ex02
 {
     public class InitializeUserLists 
     {
