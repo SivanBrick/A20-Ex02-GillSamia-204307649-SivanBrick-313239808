@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace Ex01
 {
-    public class FindTheBestFan
+    internal class FindTheBestFan
     {
         public static User GetYourBestPostFan(User i_LoggedInUser)
         {
