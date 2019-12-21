@@ -7,7 +7,7 @@ namespace Ex01
 {
     public class FindTheBestFan
     {
-        internal static User GetYourBestPostFan(User i_LoggedInUser)
+        public static User GetYourBestPostFan(User i_LoggedInUser)
         {
             User bestFriend = null;
             Dictionary<User, int> friendsLikes = new Dictionary<User, int>();
