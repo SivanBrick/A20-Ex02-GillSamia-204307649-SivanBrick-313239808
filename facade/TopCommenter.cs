@@ -1,4 +1,4 @@
-﻿namespace EX02_SivanGill
+﻿namespace Ex02
 {
     internal class TopCommenter
     {

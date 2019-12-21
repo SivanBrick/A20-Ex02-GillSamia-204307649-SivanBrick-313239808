@@ -4,7 +4,7 @@ using System.Windows.Forms;
 using Ex02;
 using FacebookWrapper.ObjectModel;
 
-namespace EX02_SivanGill
+namespace Ex02
 {
     internal class TopPostsLiker
     {
