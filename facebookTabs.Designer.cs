@@ -591,7 +591,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = global::EX01_SivanGill.Properties.Resources._640px_Zodiac__PSF_;
+            this.pictureBox6.Image = global::Ex02.Properties.Resources._640px_Zodiac__PSF_;
             this.pictureBox6.Location = new System.Drawing.Point(464, 0);
             this.pictureBox6.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.pictureBox6.Name = "pictureBox6";
@@ -751,7 +751,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::EX01_SivanGill.Properties.Resources.like_box;
+            this.pictureBox5.Image = global::Ex02.Properties.Resources.like_box;
             this.pictureBox5.Location = new System.Drawing.Point(517, 583);
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.pictureBox5.Name = "pictureBox5";
@@ -762,7 +762,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::EX01_SivanGill.Properties.Resources.small_facebook_like_icon_26;
+            this.pictureBox4.Image = global::Ex02.Properties.Resources.small_facebook_like_icon_26;
             this.pictureBox4.Location = new System.Drawing.Point(1196, 9);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.pictureBox4.Name = "pictureBox4";
@@ -773,7 +773,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::EX01_SivanGill.Properties.Resources.small_facebook_like_icon_26;
+            this.pictureBox3.Image = global::Ex02.Properties.Resources.small_facebook_like_icon_26;
             this.pictureBox3.Location = new System.Drawing.Point(11, 9);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.pictureBox3.Name = "pictureBox3";
@@ -784,7 +784,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::EX01_SivanGill.Properties.Resources.small_facebook_like_icon_26;
+            this.pictureBox2.Image = global::Ex02.Properties.Resources.small_facebook_like_icon_26;
             this.pictureBox2.Location = new System.Drawing.Point(1196, 572);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.pictureBox2.Name = "pictureBox2";
@@ -795,7 +795,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::EX01_SivanGill.Properties.Resources.small_facebook_like_icon_26;
+            this.pictureBox1.Image = global::Ex02.Properties.Resources.small_facebook_like_icon_26;
             this.pictureBox1.Location = new System.Drawing.Point(11, 572);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.pictureBox1.Name = "pictureBox1";

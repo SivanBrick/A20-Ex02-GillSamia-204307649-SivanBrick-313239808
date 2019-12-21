@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using FacebookWrapper.ObjectModel;
 using System.Windows.Forms;
 
-namespace Ex01
+namespace Ex02
 {
     public class FindTheBestFan
     {
