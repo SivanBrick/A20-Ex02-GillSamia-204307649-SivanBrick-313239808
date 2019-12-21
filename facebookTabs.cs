@@ -4,7 +4,7 @@ using FacebookWrapper.ObjectModel;
 using System.Globalization;
 using System.Collections.Generic;
 
-namespace Ex01
+namespace Ex02
 {
     public partial class FacebookTabs : Form
     {
@@ -422,6 +422,11 @@ namespace Ex01
         private void logOutActions()
         {
             this.Close();
+        }
+
+        private void userDetailsTextBox_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
