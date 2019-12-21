@@ -33,10 +33,5 @@ namespace Ex02
             this.loginAndInit();
             this.Hide();
         }
-
-        private void LoginForm_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
