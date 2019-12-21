@@ -1,8 +1,13 @@
-﻿namespace EX02
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Ex02
 {
-    public interface ILoggedInUser
+    internal interface ILoggedInUser
     {
-        void Login();
+        void loginAndInit();
         string GetProfilePictureURL();
         string GetName();
     }
