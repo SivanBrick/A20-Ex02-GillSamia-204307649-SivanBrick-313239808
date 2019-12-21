@@ -104,5 +104,5 @@ namespace Ex02
         {
             return LoggedInUser.FirstName;
         }
-    }
+  }
 }

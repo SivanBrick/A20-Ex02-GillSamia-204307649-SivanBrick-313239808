@@ -5,9 +5,9 @@ using System.Windows.Forms;
 
 namespace Ex02
 {
-    public class FindTheBestFan
+    internal class FindTheBestFan
     {
-        internal static User GetYourBestPostFan(User i_LoggedInUser)
+        public static User GetYourBestPostFan(User i_LoggedInUser)
         {
             User bestFriend = null;
             Dictionary<User, int> friendsLikes = new Dictionary<User, int>();

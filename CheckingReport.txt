@@ -2,7 +2,7 @@
 Exercise No...........: 2
 First Student Details.: 204307649 - Gill Samia
 Second Student Details: 313239808- Sivan Brick
-Delivery Date.........: 09 - Jan - 2020
+Delivery Date.........: 09 - January- 2020
 Delivered In Delay....: No
 Delay Reason..........: 
 Comments..............: 
